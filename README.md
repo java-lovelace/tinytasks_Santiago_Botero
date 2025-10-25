@@ -45,3 +45,6 @@ Ejecutar:
 
 mvn test
 Las pruebas validan la lógica central del servicio de proyectos.
+
+<img width="1919" height="651" alt="image" src="https://github.com/user-attachments/assets/23f520b4-7dcc-4204-b283-d66c3916eab4" />
+
