@@ -1,7 +1,7 @@
 # 🧩 TinyTasks — Gestión y Trazabilidad de Proyectos
 
 ## 📖 Descripción
-**ProjectSync** es una aplicación desarrollada con **Spring Boot** que permite registrar, administrar y realizar seguimiento a las tareas activas.  
+**TinyTasks** es una aplicación desarrollada con **Spring Boot** que permite registrar, administrar y realizar seguimiento a las tareas activas.  
 
 ## 🧱 Arquitectura
 El sistema sigue el patrón de **arquitectura por capas**, dividiendo responsabilidades en:
